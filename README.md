@@ -70,7 +70,7 @@ Each class is represented by a neuron in the output layer, with the model output
 
 ## Web Application
 
-To run the web application, execute the following command:
+To run the web application, download app.py and execute the following command:
 
 ```bash
 streamlit run app/webapp.py
