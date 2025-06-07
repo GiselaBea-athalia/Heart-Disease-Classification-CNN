@@ -61,7 +61,7 @@ Each class is represented by a neuron in the output layer, with the model output
 
 ## Expected Outcomes
 
-1. **Improved Diagnostic Accuracy**: The model aims to achieve high classification accuracy, even in noisy environments, ensuring reliable predictions for different heart conditions.
+1. **Improved Diagnostic Accuracy**: The model aims to achieve high classification accuracy, even in noisy environments, ensuring reliable predictions for different heart conditions. Accuracy to up to 98%
 2. **Efficient Solution for Remote Areas**: The system provides a low-cost, easy-to-use solution that can be deployed in areas where healthcare professionals are scarce.
 3. **Model Usability**: The trained model can be integrated into mobile health apps, telemedicine systems, or even deployed locally in healthcare settings to provide real-time diagnostics.
 4. **Contribution to AI in Healthcare**: This research adds to the growing application of machine learning in healthcare, specifically for early detection of heart diseases from heart sound signals.
