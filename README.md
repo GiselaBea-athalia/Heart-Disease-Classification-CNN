@@ -67,5 +67,5 @@ Each class is represented by a neuron in the output layer, with the model output
 ---
 ## Streamlit Demo
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ix7rlCNMh88" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Streamlit Demo](https://img.youtube.com/vi/ix7rlCNMh88/maxresdefault.jpg)](https://www.youtube.com/watch?v=ix7rlCNMh88)
 
