@@ -65,6 +65,14 @@ Each class is represented by a neuron in the output layer, with the model output
 4. **Contribution to AI in Healthcare**: This research adds to the growing application of machine learning in healthcare, specifically for early detection of heart diseases from heart sound signals.
 
 ---
+## Web Application
+
+To run the web application, execute the following command:
+
+```bash
+streamlit run app/webapp.py
+---
+
 ## Streamlit Demo
 
 [![Streamlit Demo](https://img.youtube.com/vi/ix7rlCNMh88/maxresdefault.jpg)](https://www.youtube.com/watch?v=ix7rlCNMh88)
