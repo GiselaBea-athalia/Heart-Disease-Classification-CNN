@@ -2,7 +2,8 @@
 
 The main objective of this project is to design and implement an automatic classification method using Convolutional Neural Networks (CNNs) to classify cardiovascular diseases (CVDs). Diseases covered include **Mitral Stenosis (MS)**, **Aortic Stenosis (AS)**, **Mitral Regurgitation (MR)**, **Mitral Valve Prolapse (MVP)**, along with **normal heart sounds**.
 
-[![Streamlit Demo](https://youtu.be/-PTrB5MYbDY?si=EsiMSwAYvlCM81zG)
+## Streamlit Demo
+[![Watch the video](https://img.youtube.com/vi/-PTrB5MYbDY/0.jpg)](https://www.youtube.com/watch?v=-PTrB5MYbDY)
 
 ## Table of Contents
 1. [Background and Objectives](#background-and-objectives)
